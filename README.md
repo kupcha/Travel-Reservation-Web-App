@@ -1,4 +1,4 @@
-# CS-336 Fall 2019 Project
+# Fall 2019 Project
 ##### Description:
 Online travel flight reservation system.
 
